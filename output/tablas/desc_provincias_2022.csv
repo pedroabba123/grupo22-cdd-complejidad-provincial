@@ -1,0 +1,6 @@
+variable,n,media,mediana,desvio,p25,p75,minimo,maximo,asimetria
+Empleo privado registrado (personas),24,274800,93940,510200,56860,151000,26980,2108000,2.62
+Establecimientos,24,39820,14000,71720,8647,21420,4391,302900,2.604
+Exportadoras cada 100 establecimientos,24,4.316,4.332,1.105,3.697,4.748,2.564,7.241,0.5872
+HHI del empleo por rama (clae2),24,0.05878,0.05887,0.0134,0.04852,0.06706,0.03367,0.08662,0.1569
+Ramas equivalentes (1 / HHI),24,17.94,17,4.397,14.91,20.63,11.54,29.7,0.7774

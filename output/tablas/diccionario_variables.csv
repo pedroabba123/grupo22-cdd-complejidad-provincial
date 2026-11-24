@@ -1,0 +1,12 @@
+variable,descripcion,tipo
+anio,Año de la observación (2021 o 2022),Numérica (temporal)
+in_departamentos,Código INDEC del departamento/partido,Categórica (id)
+departamento,Nombre del departamento o partido,Categórica
+provincia_id,Código INDEC de la provincia,Categórica (id)
+provincia,Nombre de la provincia (24: 23 provincias + CABA),Categórica
+clae6,"Código de actividad económica a 6 dígitos (CLAE, clasificador AFIP)",Categórica
+clae2,Código de actividad económica a 2 dígitos (agregación de clae6),Categórica
+letra,"Letra de sección económica (A a U, agregación máxima del CLAE)",Categórica
+empleo,Cantidad de puestos de trabajo formales declarados,Numérica
+establecimientos,Cantidad de establecimientos productivos,Numérica
+empresas_exportadoras,Cantidad de empresas exportadoras dentro de esa celda,Numérica

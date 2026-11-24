@@ -1,0 +1,5 @@
+version,n,media,mediana,desvio,p5,p95
+Original,98924,6.51,2.5,28.24,1,20.5
+Winsorizado p99,98924,5.5,2.5,9.41,1,20.5
+Sin atipicos (IQR en log),96193,4.18,2.4,4.82,1,14.35
+Sin atipicos (IQR original),87753,2.94,2,2.15,1,7.86

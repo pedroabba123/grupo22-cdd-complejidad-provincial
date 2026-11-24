@@ -1,0 +1,6 @@
+supuesto,estadistico,p_valor,lectura
+Forma funcional (RESET),0.89,0.427,No rechaza: no se detecta mala forma funcional
+Varianza constante (Breusch-Pagan),0.0965,0.953,No rechaza: no hay heteroscedasticidad detectable
+Normalidad de residuos (Shapiro-Wilk),0.937,0.141,No rechaza (n = 24: poca potencia)
+Multicolinealidad (VIF máx.),1.91,NA,VIF < 10: sin problema
+Observaciones influyentes (Cook > 4/n),0.183,NA,"Marca: Mendoza, Tucumán"

@@ -1,0 +1,4 @@
+variable,n,media,mediana,desvio,p25,p75,minimo,maximo,asimetria
+Empleo por celda,98924,66.67,9,356.72,3,34,1,40247,34.12
+Establecimientos por celda,98924,9.66,3,42.24,1,7,1,4252,42.47
+Empleo por establecimiento,98924,6.51,2.5,28.24,1.44,5,1,3853.5,53.58

@@ -1,0 +1,15 @@
+grupo_nombre,variable,v.test,Mean in category,Overall mean,p.value
+Patagonia minera y petrolera,Minería,3.8,15.34,3.766,0
+Patagonia minera y petrolera,Alojamiento y gastro.,2.759,6.141,4.068,0.006
+Patagonia minera y petrolera,Transporte,2.259,7.548,5.964,0.024
+Patagonia minera y petrolera,Otros,-2.202,3.787,5.149,0.028
+Patagonia minera y petrolera,Educación y salud,-3.056,7.335,11.143,0.002
+CABA: servicios modernos,Servicios modernos,4.584,23.645,6.719,0
+CABA: servicios modernos,Otros,2.318,8.224,5.149,0.02
+"Intermedio: agro, industria y servicios",Industria,2.463,19.698,16.698,0.014
+"Intermedio: agro, industria y servicios",Agro,2.183,10.508,8.765,0.029
+Comercio y construcción,Comercio,3.489,25.199,19.346,0
+Comercio y construcción,Energía y agua,2.729,3.813,2.365,0.006
+Comercio y construcción,Construcción,2.199,14.318,9.664,0.028
+Comercio y construcción,Industria,-2.038,9.53,16.698,0.042
+Comercio y construcción,Transporte,-2.076,4.507,5.964,0.038

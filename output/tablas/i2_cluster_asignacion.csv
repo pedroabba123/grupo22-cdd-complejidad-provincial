@@ -1,0 +1,25 @@
+provincia_label,cluster,grupo_nombre,silueta,dist_centro,provincia,region
+Buenos Aires,3,"Intermedio: agro, industria y servicios",0.2779160489186334,5.475354411052879,Buenos Aires,Pampeana y GBA
+CABA,2,CABA: servicios modernos,0,0,CABA,Pampeana y GBA
+Catamarca,3,"Intermedio: agro, industria y servicios",0.12061417921534039,6.146839729114818,Catamarca,NOA
+Chaco,4,Comercio y construcción,0.11188080002123375,2.514168312813333,Chaco,NEA
+Chubut,1,Patagonia minera y petrolera,0.04163632035954958,2.44570997722189,Chubut,Patagonia
+Córdoba,3,"Intermedio: agro, industria y servicios",0.2777003895149584,2.764334223890008,Cordoba,Pampeana y GBA
+Corrientes,3,"Intermedio: agro, industria y servicios",0.08473766836871953,2.299198942887306,Corrientes,NEA
+Entre Ríos,3,"Intermedio: agro, industria y servicios",0.29452260211718106,1.558127461629852,Entre Rios,Pampeana y GBA
+Formosa,4,Comercio y construcción,0.21177822069831967,1.0382939335115982,Formosa,NEA
+Jujuy,3,"Intermedio: agro, industria y servicios",0.26634812840284716,1.3500784311656135,Jujuy,NOA
+La Pampa,4,Comercio y construcción,0.0012135374062904251,2.193275471970961,La Pampa,Pampeana y GBA
+La Rioja,3,"Intermedio: agro, industria y servicios",0.25669582822158626,1.9002133995440482,La Rioja,NOA
+Mendoza,3,"Intermedio: agro, industria y servicios",0.21704520335861616,3.2918100457212427,Mendoza,Cuyo
+Misiones,3,"Intermedio: agro, industria y servicios",0.19723317190523443,2.363684961148509,Misiones,NEA
+Neuquén,1,Patagonia minera y petrolera,0.21182883434276656,1.2224577775279197,Neuquen,Patagonia
+Río Negro,3,"Intermedio: agro, industria y servicios",0.16168289335631014,1.5098611226584748,Rio Negro,Patagonia
+Salta,3,"Intermedio: agro, industria y servicios",0.321822107830448,2.34398759398543,Salta,NOA
+San Juan,3,"Intermedio: agro, industria y servicios",0.20134341409024825,2.03329506939871,San Juan,Cuyo
+San Luis,3,"Intermedio: agro, industria y servicios",0.32445473930686053,2.777590084670642,San Luis,Cuyo
+Santa Cruz,1,Patagonia minera y petrolera,0.3064785821527368,1.9404409622470766,Santa Cruz,Patagonia
+Santa Fe,3,"Intermedio: agro, industria y servicios",0.339448026385424,3.0472202698151114,Santa Fe,Pampeana y GBA
+Santiago del Estero,4,Comercio y construcción,-0.04936324012129396,3.15331725825749,Santiago Del Estero,NOA
+Tierra del Fuego,1,Patagonia minera y petrolera,-0.012661249867504972,3.9258304991246185,Tierra Del Fuego,Patagonia
+Tucumán,3,"Intermedio: agro, industria y servicios",0.2948298419910223,4.249710859072956,Tucuman,NOA

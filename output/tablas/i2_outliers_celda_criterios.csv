@@ -1,0 +1,5 @@
+criterio,limite_superior,n_marcados,n_total,pct
+"IQR, escala original",10.333333333333332,11171,98924,11.3
+"IQR, escala logaritmica",32.2013253260445,2731,98924,2.8
+"z-score clasico (|z|>3), escala original",91.22295099936018,639,98924,0.6
+"z robusto (mediana/MAD, |z|>3), escala log",42.51240993587002,1825,98924,1.8

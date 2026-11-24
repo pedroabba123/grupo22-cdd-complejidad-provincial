@@ -1,0 +1,61 @@
+provincia,letra,empleo,share,sector
+Buenos Aires,C,540913,25.66,Industria manufacturera
+Buenos Aires,G,390364,18.52,Comercio mayorista y minorista
+Buenos Aires,P,192869,9.15,Enseñanza
+Buenos Aires,H,175466,8.32,Transporte y almacenamiento
+Buenos Aires,N,140696,6.67,Actividades administrativas y de apoyo
+Buenos Aires,F,120649,5.72,Construcción
+Buenos Aires,Q,96313,4.57,Salud humana y servicios sociales
+Buenos Aires,I,85072,4.04,Alojamiento y servicios de comida
+Buenos Aires,S,80741,3.83,Otras actividades de servicios
+Buenos Aires,A,75736,3.59,"Agricultura, ganadería, caza y silvicultura"
+Buenos Aires,J,39681,1.88,Información y comunicaciones
+Buenos Aires,M,37626,1.78,"Actividades profesionales, científicas y técnicas"
+Buenos Aires,K,33139,1.57,Servicios financieros y de seguros
+Buenos Aires,R,30052,1.43,"Artes, entretenimiento y recreación"
+Buenos Aires,E,22221,1.05,"Agua, saneamiento y gestión de residuos"
+Buenos Aires,D,19767,0.94,"Electricidad, gas, vapor y aire acondicionado"
+Buenos Aires,L,13156,0.62,Actividades inmobiliarias
+Buenos Aires,B,7763,0.37,Explotación de minas y canteras
+Buenos Aires,O,5807,0.28,Administración pública y defensa
+Buenos Aires,T,9,0,Hogares como empleadores
+Buenos Aires,U,79,0,Organismos extraterritoriales
+Neuquen,B,22745,17.93,Explotación de minas y canteras
+Neuquen,G,21846,17.22,Comercio mayorista y minorista
+Neuquen,F,16142,12.73,Construcción
+Neuquen,N,9543,7.52,Actividades administrativas y de apoyo
+Neuquen,C,9091,7.17,Industria manufacturera
+Neuquen,H,8354,6.59,Transporte y almacenamiento
+Neuquen,I,6974,5.5,Alojamiento y servicios de comida
+Neuquen,Q,5817,4.59,Salud humana y servicios sociales
+Neuquen,A,5202,4.1,"Agricultura, ganadería, caza y silvicultura"
+Neuquen,P,4298,3.39,Enseñanza
+Neuquen,S,4075,3.21,Otras actividades de servicios
+Neuquen,M,3458,2.73,"Actividades profesionales, científicas y técnicas"
+Neuquen,K,2641,2.08,Servicios financieros y de seguros
+Neuquen,D,1642,1.29,"Electricidad, gas, vapor y aire acondicionado"
+Neuquen,J,1417,1.12,Información y comunicaciones
+Neuquen,R,1408,1.11,"Artes, entretenimiento y recreación"
+Neuquen,E,933,0.74,"Agua, saneamiento y gestión de residuos"
+Neuquen,L,850,0.67,Actividades inmobiliarias
+Neuquen,O,389,0.31,Administración pública y defensa
+Neuquen,U,12,0.01,Organismos extraterritoriales
+Santiago Del Estero,G,13721,24.53,Comercio mayorista y minorista
+Santiago Del Estero,F,9785,17.49,Construcción
+Santiago Del Estero,P,6316,11.29,Enseñanza
+Santiago Del Estero,C,5310,9.49,Industria manufacturera
+Santiago Del Estero,A,3458,6.18,"Agricultura, ganadería, caza y silvicultura"
+Santiago Del Estero,S,2769,4.95,Otras actividades de servicios
+Santiago Del Estero,H,2717,4.86,Transporte y almacenamiento
+Santiago Del Estero,Q,2245,4.01,Salud humana y servicios sociales
+Santiago Del Estero,I,2214,3.96,Alojamiento y servicios de comida
+Santiago Del Estero,N,2179,3.89,Actividades administrativas y de apoyo
+Santiago Del Estero,K,1410,2.52,Servicios financieros y de seguros
+Santiago Del Estero,J,923,1.65,Información y comunicaciones
+Santiago Del Estero,M,818,1.46,"Actividades profesionales, científicas y técnicas"
+Santiago Del Estero,D,525,0.94,"Electricidad, gas, vapor y aire acondicionado"
+Santiago Del Estero,R,442,0.79,"Artes, entretenimiento y recreación"
+Santiago Del Estero,E,376,0.67,"Agua, saneamiento y gestión de residuos"
+Santiago Del Estero,B,317,0.57,Explotación de minas y canteras
+Santiago Del Estero,O,236,0.42,Administración pública y defensa
+Santiago Del Estero,L,183,0.33,Actividades inmobiliarias

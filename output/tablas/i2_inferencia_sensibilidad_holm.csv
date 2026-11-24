@@ -1,0 +1,7 @@
+indice,resultado,rho,p,ic_inf,ic_sup,p_holm,nivel,resultado_lab
+hhi_letra,int_exp,-0.1191,0.5793,-0.5638,0.3374,1,Letra (21),Todos los sectores
+hhi_letra,int_exp_trad,-0.0965,0.6537,-0.5638,0.3441,1,Letra (21),"Solo agro, minería e industria"
+hhi_c2,int_exp,-0.6243,0.0011,-0.7969,-0.3336,0.0067,Clae2 (87),Todos los sectores
+hhi_c2,int_exp_trad,-0.4939,0.0142,-0.7152,-0.1683,0.0708,Clae2 (87),"Solo agro, minería e industria"
+hhi_c6,int_exp,-0.2748,0.1938,-0.5942,0.1186,0.7751,Clae6 (945),Todos los sectores
+hhi_c6,int_exp_trad,0.0183,0.9325,-0.394,0.4122,1,Clae6 (945),"Solo agro, minería e industria"

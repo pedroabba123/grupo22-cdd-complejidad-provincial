@@ -1,0 +1,11 @@
+particion,H,p
+"Base (HCPC, k = 4)",7.866,0.049
+ncp = 3,7.866,0.049
+ncp = 11 (todos los componentes),7.866,0.049
+k = 3,0.814,0.665
+k = 5,5.192,0.268
+Ward sin consolidar,2.485,0.478
+Linkage completo,2.064,0.559
+k-means (50 arranques),7.866,0.049
+19 letras en vez de 12 macro,3.863,0.277
+Sin CABA (23 provincias),4.075,0.253

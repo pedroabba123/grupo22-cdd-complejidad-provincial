@@ -1,0 +1,22 @@
+letra,establecimientos,empresas_exp,intensidad_exportadora,sector
+B,4146,1289,31.09,Explotación de minas y canteras
+C,105947,20626,19.47,Industria manufacturera
+J,22903,2369,10.34,Información y comunicaciones
+D,3205,249,7.77,"Electricidad, gas, vapor y aire acondicionado"
+H,57763,2458,4.26,Transporte y almacenamiento
+G,273504,11028,4.03,Comercio mayorista y minorista
+A,81786,2629,3.21,"Agricultura, ganadería, caza y silvicultura"
+U,305,7,2.3,Organismos extraterritoriales
+E,2770,56,2.02,"Agua, saneamiento y gestión de residuos"
+R,12970,244,1.88,"Artes, entretenimiento y recreación"
+F,44706,629,1.41,Construcción
+I,54535,720,1.32,Alojamiento y servicios de comida
+M,44995,367,0.82,"Actividades profesionales, científicas y técnicas"
+N,51297,373,0.73,Actividades administrativas y de apoyo
+Q,37191,248,0.67,Salud humana y servicios sociales
+L,27198,56,0.21,Actividades inmobiliarias
+S,83959,117,0.14,Otras actividades de servicios
+P,19187,18,0.09,Enseñanza
+K,25177,20,0.08,Servicios financieros y de seguros
+O,2147,0,0,Administración pública y defensa
+T,27,0,0,Hogares como empleadores

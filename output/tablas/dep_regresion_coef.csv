@@ -1,0 +1,5 @@
+modelo,termino,coef,ee_cluster,t,p,n,r2,provincias
+Todos los departamentos juntos,log(hhi_clae2),2.09,0.6249,3.345,8.992e-4,408,0.06359,24
+Todos los departamentos juntos,log(empleo),0.6593,0.2616,2.52,0.01212,408,0.06359,24
+Con efectos fijos de provincia,log(hhi_clae2),1.489,0.7071,2.106,0.03587,408,0.3053,24
+Con efectos fijos de provincia,log(empleo),0.5487,0.3117,1.76,0.07918,408,0.3053,24

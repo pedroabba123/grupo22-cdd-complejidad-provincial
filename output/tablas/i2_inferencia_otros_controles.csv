@@ -1,0 +1,4 @@
+control,rho
+HHI clae2 winsorizado (p99 del empleo por celda),-0.633
+Theil clae2 en vez de HHI,-0.659
+N equivalente clae2 (inverso del HHI),0.624

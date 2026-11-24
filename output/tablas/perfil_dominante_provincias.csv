@@ -1,0 +1,25 @@
+provincia,sector,share_provincial,share_nacional,brecha_pp
+Santa Cruz,Explotación de minas y canteras,27,1.54,25.5
+Neuquen,Explotación de minas y canteras,17.9,1.54,16.4
+Tucuman,"Agricultura, ganadería, caza y silvicultura",21.2,5.22,16
+Tierra Del Fuego,Industria manufacturera,32.9,18.55,14.3
+San Luis,Industria manufacturera,31.2,18.55,12.6
+San Juan,Construcción,16.8,6.74,10.1
+La Pampa,Comercio mayorista y minorista,26.9,17.56,9.3
+La Rioja,Industria manufacturera,27.1,18.55,8.6
+Formosa,Comercio mayorista y minorista,25,17.56,7.4
+Buenos Aires,Industria manufacturera,25.7,18.55,7.1
+Corrientes,Comercio mayorista y minorista,24.6,17.56,7
+Santiago Del Estero,Comercio mayorista y minorista,24.5,17.56,6.9
+Chaco,Comercio mayorista y minorista,24.4,17.56,6.8
+Santa Fe,Industria manufacturera,25.3,18.55,6.8
+Rio Negro,Comercio mayorista y minorista,21.8,17.56,4.2
+Entre Rios,Industria manufacturera,22.1,18.55,3.6
+Chubut,Comercio mayorista y minorista,20.7,17.56,3.1
+Catamarca,Comercio mayorista y minorista,19.7,17.56,2.1
+Cordoba,Industria manufacturera,20.7,18.55,2.1
+Misiones,Industria manufacturera,20,18.55,1.4
+Salta,Comercio mayorista y minorista,17.6,17.56,0
+Jujuy,Industria manufacturera,18.4,18.55,-0.2
+Mendoza,Industria manufacturera,18.3,18.55,-0.2
+CABA,Comercio mayorista y minorista,13,17.56,-4.6

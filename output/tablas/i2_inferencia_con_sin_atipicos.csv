@@ -1,0 +1,6 @@
+modelo,n,coef_hhi,ee_robusto,p,rho
+Todas las provincias,24,-3.402,0.8459,6.166e-4,-0.6243
+Sin Mendoza (atípica en int. exportadora),23,-3.222,0.8885,0.001683,-0.6166
+"Sin influyentes: Mendoza, Tucumán",22,-4.05,0.8602,1.533e-4,-0.6104
+Sin CABA (atípica en estructura),23,-3.682,0.8742,4.283e-4,-0.6364
+Sin Buenos Aires ni CABA (atípicas en tamaño),22,-3.681,0.864,4.231e-4,-0.6172

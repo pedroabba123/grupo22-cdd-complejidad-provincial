@@ -1,0 +1,10 @@
+variante,ARI,tamaños
+ncp = 3,1,15/4/4/1
+ncp = 11 (todos los componentes),1,15/4/4/1
+k = 3,0.58,19/4/1
+k = 5,0.63,12/4/4/3/1
+Ward sin consolidar,0.32,17/4/2/1
+Linkage completo,0.52,15/5/3/1
+k-means (50 arranques),1,15/4/4/1
+19 letras en vez de 12 macro,0.48,13/7/3/1
+Sin CABA (23 provincias),0.26,9/6/4/4

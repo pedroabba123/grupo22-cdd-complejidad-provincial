@@ -1,0 +1,5 @@
+chequeo,n
+Filas con empleo <= 0,0
+Filas con establecimientos <= 0,0
+Filas con exportadoras > establecimientos,0
+Filas con empleo < establecimientos,0

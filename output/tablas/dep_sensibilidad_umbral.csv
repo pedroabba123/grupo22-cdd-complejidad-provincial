@@ -1,0 +1,5 @@
+piso_empleo,n_departamentos,rho_spearman,rho_hhi_vs_empleo,coef_sin_control,p_sin_control,coef_con_control,p_con_control
+100,493,-0.00377,-0.764,1.05,0.0833,1.99,0.00132
+500,408,-0.0322,-0.758,0.871,0.252,2.09,8.99e-4
+2000,272,-0.0329,-0.764,0.59,0.308,1.24,0.0704
+5000,170,-0.114,-0.75,0.113,0.891,0.682,0.412

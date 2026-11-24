@@ -1,0 +1,9 @@
+provincias_aux.csv
+- provincia: nombre tal como figura en la base original (sin tildes).
+- provincia_label: nombre para tablas y graficos.
+- region: agrupacion de provincias siguiendo las regiones estadisticas del INDEC (GBA y Pampeana se unen para evitar celdas vacias).
+- fundar_eci: Indice de Complejidad Economica (ECI) por provincia calculado con empleo privado, transcripto de la Tabla 1 del Anexo de
+  Luvini, P. (2024), "Guia practica para analizar la Complejidad Economica de una provincia", Fundar (agosto 2024).
+  Fundar construye el indicador con datos del Ministerio de Economia, Secretaria de Industria, DNEP (CEP XXI), la misma fuente de nuestra base.
+  La tabla original no aclara el anio y asigna el mismo valor (4,2) a Buenos Aires y CABA.
+  Link: https://fund.ar/wp-content/uploads/2024/08/FU_GuiaComplejidad_Anexo.pdf

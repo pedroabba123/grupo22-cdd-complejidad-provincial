@@ -1,0 +1,10 @@
+variable,descripcion,tipo,faltantes
+anio,Año de referencia (2021 o 2022),Temporal (discreta),0
+provincia,"Provincia (24 jurisdicciones, CABA incluida)",Categórica nominal,0
+departamento,"Departamento o partido, o comuna en CABA (527)",Categórica nominal,0
+clae6,"Actividad económica, CLAE a 6 dígitos (945 actividades)",Categórica nominal,0
+clae2,"Rama de actividad, CLAE a 2 dígitos (87 ramas)",Categórica nominal,0
+letra,"Sector de actividad, letra CLAE (21 sectores)",Categórica nominal,0
+empleo,"Puestos de trabajo privados registrados, en personas",Numérica discreta,0
+establecimientos,"Establecimientos productivos, en unidades",Numérica discreta,0
+empresas_exportadoras,"Empresas que exportaron en el año, en unidades",Numérica discreta,0
